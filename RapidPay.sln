@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidPay", "RapidPay.csproj", "{93584FF1-ECD8-4DC9-9925-435AD9AE3DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93584FF1-ECD8-4DC9-9925-435AD9AE3DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93584FF1-ECD8-4DC9-9925-435AD9AE3DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93584FF1-ECD8-4DC9-9925-435AD9AE3DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93584FF1-ECD8-4DC9-9925-435AD9AE3DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD07B748-0800-48DE-A4FE-D30CC9C056A9}
+	EndGlobalSection
+EndGlobal
